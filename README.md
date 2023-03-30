@@ -1,8 +1,8 @@
 # Data-Visualization-using-R-and-Power-Bi
-##Aim:
+## Aim:
 To incorporate the given CSV file into R, it is necessary to first process the data to ensure its cleanliness and subsequently import the refined data into Power Bi, where it can be utilized to generate visual representations.
 
-##Data:
+## Data:
 
 Film,
 Genre,
@@ -13,7 +13,7 @@ Rotten Tomatoes,
 Worldwide Gross,
 Year
 
-##Process for cleaning the data:
+## Process for cleaning the data:
 
 Check for missing values
 
@@ -25,8 +25,20 @@ Remove outliers in Profitability
 
 Remove outliers in Worldwide Gross
 
-##Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
-##Univariate analysis:
+# Univariate analysis:
 
-Univariate analysis explores each variable in a data set, separately. It looks at the range of values, as well as the central tendency of the values. It describes the pattern of response to the variable. It describes each variable on its own.
+The term “univariate analysis” refers to a single-variable analysis. Because the prefix “uni” indicates “one,” you'll remember this. Univariate analysis is a fundamental statistical data analysis technique. The data comprises only one variable and does not have to deal with a cause-and-effect relationship
+
+# Bivariate Analysis:
+
+Bivariate analysis means the analysis of bivariate data. This is a single statistical analysis that is used to find out the relationship that exists between two value sets. The variables that are involved are X and Y. Univariate analysis is when only one variable is analyzed.
+
+# Multivariate Analysis
+Multivariate analysis is based in observation and analysis of more than one statistical outcome variable at a time. In design and analysis, the technique is used to perform trade studies across multiple dimensions while taking into account the effects of all variables on the responses of interest.
+
+![R programming charts-Github-1](https://user-images.githubusercontent.com/124794009/228880262-494b9fd4-b9cb-4b3c-ac0b-e081bfcb5b9f.jpg)
+![R programming charts-Github-2](https://user-images.githubusercontent.com/124794009/228880315-3664a869-a631-412b-8d71-d13374bddcf3.jpg)
+
+
