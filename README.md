@@ -25,7 +25,7 @@ Remove outliers in Profitability
 
 Remove outliers in Worldwide Gross
 
-## Exploratory Data Analysis 
+# Exploratory Data Analysis 
 
 # Univariate analysis:
 
@@ -40,5 +40,26 @@ Multivariate analysis is based in observation and analysis of more than one stat
 
 ![R programming charts-Github-1](https://user-images.githubusercontent.com/124794009/228880262-494b9fd4-b9cb-4b3c-ac0b-e081bfcb5b9f.jpg)
 ![R programming charts-Github-2](https://user-images.githubusercontent.com/124794009/228880315-3664a869-a631-412b-8d71-d13374bddcf3.jpg)
+
+# Power Bi Visualization
+
+Import the cleaned data into power Bi and create visualization
+
+# Client Requirements:
+
+In Power BI Dashboard, the client would like to see: 
+
+The average Rotten Tomatoes ratings of each genre
+The number of movies produced per year 
+The audience score for each film  
+The profitability per studio 
+The worldwide gross per genre 
+
+For the dashboard, the company would like you to use their brand colors which are blue, green and brown
+
+![PowerBi Dashboard-R-1](https://user-images.githubusercontent.com/124794009/228882967-bd759180-e724-460c-9af2-42a0eaf95a40.jpg)
+
+
+
 
 
