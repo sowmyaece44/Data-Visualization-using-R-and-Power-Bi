@@ -58,6 +58,8 @@ For the dashboard, the company would like you to use their brand colors which ar
 
 ![PowerBi Dashboard-R-1](https://user-images.githubusercontent.com/124794009/228882967-bd759180-e724-460c-9af2-42a0eaf95a40.jpg)
 
+https://app.powerbi.com/groups/me/reports/7615d8c0-cb9e-47be-9f2f-c18fad045ec2?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
+
 
 
 
