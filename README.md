@@ -39,7 +39,6 @@ Bivariate analysis means the analysis of bivariate data. This is a single statis
 Multivariate analysis is based in observation and analysis of more than one statistical outcome variable at a time. In design and analysis, the technique is used to perform trade studies across multiple dimensions while taking into account the effects of all variables on the responses of interest.
 
 ![R programming charts-Github-1](https://user-images.githubusercontent.com/124794009/228880262-494b9fd4-b9cb-4b3c-ac0b-e081bfcb5b9f.jpg)
-![R programming charts-Github-2](https://user-images.githubusercontent.com/124794009/228880315-3664a869-a631-412b-8d71-d13374bddcf3.jpg)
 # Power Bi Visualization
 
 Import the cleaned data into power Bi and create visualization
